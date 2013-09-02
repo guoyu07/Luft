@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Luft", "Luft.vcxproj", "{B55E7A0F-D082-41F8-B24C-E8C5F3160600}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Luft", "luft\proj\Luft.vcxproj", "{B55E7A0F-D082-41F8-B24C-E8C5F3160600}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Core", "core\proj\Core.vcxproj", "{A47B93B7-0863-434E-B48A-6A59B7DF01F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{B55E7A0F-D082-41F8-B24C-E8C5F3160600}.Debug|Win32.Build.0 = Debug|Win32
 		{B55E7A0F-D082-41F8-B24C-E8C5F3160600}.Release|Win32.ActiveCfg = Release|Win32
 		{B55E7A0F-D082-41F8-B24C-E8C5F3160600}.Release|Win32.Build.0 = Release|Win32
+		{A47B93B7-0863-434E-B48A-6A59B7DF01F1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A47B93B7-0863-434E-B48A-6A59B7DF01F1}.Debug|Win32.Build.0 = Debug|Win32
+		{A47B93B7-0863-434E-B48A-6A59B7DF01F1}.Release|Win32.ActiveCfg = Release|Win32
+		{A47B93B7-0863-434E-B48A-6A59B7DF01F1}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
